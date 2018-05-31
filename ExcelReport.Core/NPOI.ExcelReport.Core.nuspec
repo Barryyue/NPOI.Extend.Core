@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>NPOI.Extend.Core</id>
+    <id>NPOI.ExcelReport.Core</id>
     <version>1.0</version>
-    <title>NPOI.Extend.Core</title>
+    <title>NPOI.ExcelReport.Core</title>
     <authors>Barry.Yue</authors>
     <owners>Barry.Yue</owners>
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
     <projectUrl>https://github.com/Barryyue/NPOI.Extend.Core.git</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>NPOI.Extend.Core</description>
+    <description>NPOI.ExcelReport.Core</description>
     <copyright>Copyright 2018</copyright>
     <tags>Tag1 Tag2</tags>
   </metadata>
