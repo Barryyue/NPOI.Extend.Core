@@ -1,2 +1,3 @@
 # NPOI.Extend.Core
-NPOI.Extend.Core (由NPOI.Extend修改的Core版)
+NPOI.Extend.Core (由NPOI.Extend 和 ExcelReport修改的Core版)
+
